@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A Software Engineer from Las Vegas</h3>
+# Hi :wave:, I'm Alex
+A Software Engineer from Las Vegas.
+***
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=okronoss&label=Profile%20views&color=0e75b6&style=flat" alt="okronoss" /> </p>
+### :mailbox: How to reach me:
+- **:email: alex@okro.dev**
+- **<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="16" /> [LinkedIn](https://www.linkedin.com/in/okronoss/)**
+- **<img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="Twitter" height="16" /> [Twitter](https://twitter.com/okronoss)**
 
-- 📫 How to reach me **alex@okro.tech**
+### :toolbox: Languages and Tools:
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="50" width="50" /> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core" height="50" width="50" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/okronoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="okronoss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/okronoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="okronoss" height="30" width="40" /></a>
-</p>
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="50" width="50" /> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Framework" height="50" width="50" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="50" width="50" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okronoss&show_icons=true&theme=dark&locale=en&layout=compact" alt="okronoss" /></p>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50" width="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="50" width="50" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okronoss&show_icons=true&locale=en" alt="okronoss" /></p>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" height="50" width="50" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" height="50" width="50" /> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="50" width="50" /> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="50" width="50" />
 
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle SQL" height="50" width="50" width="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" height="50" width="50" /> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="50" width="50" />
+
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" height="50" width="50" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=okronoss&show_icons=true&theme=nord&locale=en&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=okronoss&show_icons=true&locale=en&theme=nord)
+
+![Profile Views Counter](https://komarev.com/ghpvc/?username=okronoss&label=Profile%20views&color=0e75b6&style=flat)
